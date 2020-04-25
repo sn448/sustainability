@@ -2,11 +2,14 @@
 .nav-link {
     color: darkgreen !important;
 }
+.dropdown-item {
+    color: darkgreen !important;
+}
 /*styles for jumbotron*/
 .jumbotron {
-    background-image: url("../images/flower-meadow1.jpg") !important;
+    background-image: url("../images/flower-meadow.jpg") !important;
     background-size: cover;
-    height: 624px;
+    height: 432px;
     color: white;
 }
 /*styles for bootstrap cards*/
@@ -19,7 +22,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aliceblue;
+    background-color: #f6fff6;
     color: white;
     text-align: center;
     padding: 10px;
