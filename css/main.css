@@ -1,5 +1,18 @@
 /*styles for nav bar*/
-
+.nav-link {
+    color: darkgreen !important;
+}
+/*styles for jumbotron*/
+.jumbotron {
+    background-image: url("../images/flower-meadow1.jpg") !important;
+    background-size: cover;
+    height: 624px;
+    color: white;
+}
+/*styles for bootstrap cards*/
+.btn-primary {
+    background: green;
+}
 /*styles for footer*/
 .footer {
     position: fixed;
