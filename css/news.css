@@ -1,0 +1,51 @@
+.card-img-right {
+    float: right;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.card {
+    width: 80%;
+    margin-left: 100px;
+    padding: 0 !important;
+    background-color: #f6fff6;
+}
+h2 {
+    text-align: center;
+    color: seagreen;
+    font-weight: bolder;
+}
+.col-12 p {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.card-text {
+    margin: 0 !important;
+    font-size: smaller;
+    width: 50%;
+}
+.date-time {
+    color: darkseagreen;
+    margin: 0 !important;
+}
+.card-title {
+    color: seagreen;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.read-more {
+    color: darkgreen;
+    font-weight: lighter;
+}
+
+/*styles for news stories*/
+.jumbotron {
+    background-image: url("../images/seedling.jpg");
+    background-size: cover;
+    height: 392px;
+    color: white;
+}
+.article p {
+    width: 800px;
+    align-items: center;
+}

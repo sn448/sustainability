@@ -1,3 +1,4 @@
+/* DEVELOPER: Sarah Naser, IS117-002, Spring 2020*/
 /*styles for nav bar*/
 .nav-link {
     color: darkgreen !important;
@@ -6,7 +7,7 @@
     color: darkgreen !important;
 }
 /*styles for jumbotron*/
-.jumbotron {
+.main-jumbotron {
     background-image: url("../images/flower-meadow.jpg") !important;
     background-size: cover;
     height: 432px;
