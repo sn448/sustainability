@@ -1,3 +1,5 @@
+/*DEVELOPER: Sarah Naser, 1S117-002, Spring 2020*/
+/*styles for cards*/
 .card-img-right {
     float: right;
     margin: 0 !important;
@@ -44,8 +46,4 @@ h2 {
     background-size: cover;
     height: 392px;
     color: white;
-}
-.article p {
-    width: 800px;
-    align-items: center;
 }

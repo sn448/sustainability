@@ -1,18 +1,25 @@
 /* DEVELOPER: Sarah Naser, IS117-002, Spring 2020*/
 /*styles for nav bar*/
 .nav-link {
-    color: darkgreen !important;
+    color: darkslategray !important;
 }
 .dropdown-item {
-    color: darkgreen !important;
+    color: darkslategray !important;
 }
 /*styles for jumbotron*/
 .main-jumbotron {
-    background-image: url("../images/flower-meadow.jpg") !important;
+    background-image: url("../images/plant.jpg") !important;
     background-size: cover;
-    height: 432px;
-    color: white;
+    height: 475px;
+    color: black;
 }
+.main-jumbotron .display-4 {
+    font-family: Broadway !important;
+}
+/* .lead {
+    font-family: Broadway;
+    font-size: x-large;
+} */
 /*styles for bootstrap cards*/
 .btn-primary {
     background: green;
