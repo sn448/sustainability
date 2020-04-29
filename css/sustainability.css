@@ -5,6 +5,11 @@
     float: right;
     margin: 2em;
 }
+.img-left {
+    width: 35%;
+    float: left;
+    margin: 2em 3em 2em 0;
+}
 /*jumbotrons*/
 .college-jumbo {
     background-image: url("../images/desktop-white.jpg");
@@ -14,10 +19,14 @@
 .college-title {
     float: right;
     margin: 50px;
+    font-family: Centaur;
 }
 /*articles*/
 .article-title {
     margin: 10px;
+    font-family: Centaur;
+    font-weight: bold;
+    color: seagreen;
 }
 .intro {
     margin: 0 2em 0;

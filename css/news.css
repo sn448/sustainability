@@ -11,10 +11,11 @@
     padding: 0 !important;
     background-color: #f6fff6;
 }
-h2 {
+h1 {
     text-align: center;
     color: seagreen;
     font-weight: bolder;
+    font-family: Centaur;
 }
 .col-12 p {
     margin-left: 80px;
